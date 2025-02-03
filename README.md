@@ -70,7 +70,6 @@ The data logged in the CSV format will look like this:
 DATA,dd/mm/yyyy,"hh:mm:ss",UID,name,branch,roll_number
 
 ## Contributors
-DATA,dd/mm/yyyy,"hh:mm:ss",UID,name,branch,roll_number
 - **Aditya Abhilash**
 - **Atharva Tol**
 
